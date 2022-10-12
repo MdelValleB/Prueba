@@ -1,0 +1,31 @@
+body{
+    background-image: url('../img/bg.jpg');
+    background-size: cover;
+}
+h1{
+    background-color: rgba(250, 235, 215, 0.4);
+    color: rgba(120, 205, 120);
+    font-size: 24px;
+    
+}
+
+.azul{
+    color: blue;
+    text-transform: uppercase;
+}
+
+h2{
+    background-color: rgba(134, 33, 212,0.5);
+ }
+
+ h1, h2{
+    text-align:center;
+ }
+
+ol{
+    color: red;
+}
+
+a{
+    text-decoration: none;
+}
